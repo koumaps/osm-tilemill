@@ -74,8 +74,7 @@
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "places",
-      "layerId": "places",
-      "status": "off"
+      "layerId": "places"
     },
     {
       "geometry": "polygon",
@@ -222,8 +221,7 @@
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "boundary",
-      "layerId": "boundary",
-      "status": "off"
+      "layerId": "boundary"
     },
     {
       "geometry": "polygon",
@@ -250,8 +248,7 @@
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "historic",
-      "layerId": "historic",
-      "status": "off"
+      "layerId": "historic"
     },
     {
       "geometry": "linestring",
@@ -281,8 +278,7 @@
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "waterway",
-      "layerId": "waterway",
-      "status": "off"
+      "layerId": "waterway"
     },
     {
       "geometry": "linestring",
@@ -312,8 +308,7 @@
       "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
       "advanced": {},
       "name": "airport",
-      "layerId": "airport",
-      "status": "off"
+      "layerId": "airport"
     },
     {
       "geometry": "polygon",

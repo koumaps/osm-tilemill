@@ -1,5 +1,6 @@
 #airport {
     line-color: @road;
+   line-width: @primary-width;
     [zoom=15] {
         line-width: @primary-width;
     }
