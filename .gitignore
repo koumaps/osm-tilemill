@@ -10,4 +10,13 @@ examples/geography-class/layers
 examples/road-trip/layers
 examples/control-room/layers
 /.vscode
+
 plugins/tilemill-autopilot/
+projects/cache/
+projects/export
+projects/*/control-room/
+projects/*/geography-class/
+projects/*/open-streets-dc/
+projects/*/postgre-sample/
+projects/*/road-trip/
+projects/*/sample/
